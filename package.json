@@ -13,14 +13,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "concurrently": "^5.3.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/pc611652003/deep-thoughts.git"
-  },
-  "bugs": {
-    "url": "https://github.com/pc611652003/deep-thoughts/issues"
-  },
-  "homepage": "https://github.com/pc611652003/deep-thoughts#readme"
+    "concurrently": "^5.1.0"
+  }
 }
